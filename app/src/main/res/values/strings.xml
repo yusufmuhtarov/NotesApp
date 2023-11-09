@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="notes">Notes</string>
+    <string name="title">Title</string>
+    <string name="text_ti">Title</string>
+    <string name="texe_ty_so">Type something...</string>
+    <string name="note_title">Note title</string>
+    <string name="note">Note Title</string>
+</resources>
